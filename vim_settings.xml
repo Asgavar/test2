@@ -2,14 +2,118 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1520450333332">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" timestamp="1520456802823">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CLI.php" timestamp="1520456475608">
+        <mark key="'" line="17" column="54" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/MoneyFormatterInterface.php" timestamp="1520454563242">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CurrencyInterface.php" timestamp="1520448495313">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/ThousandSeparatedMoneyFormatter.php" timestamp="1520457033337">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" timestamp="1520457147802">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CLI.php" />
+      <jump line="27" column="51" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" />
+      <jump line="61" column="6" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/ThousandSeparatedMoneyFormatter.php" />
+      <jump line="91" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" />
+      <jump line="20" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" />
+      <jump line="43" column="4" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" />
+      <jump line="29" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" />
+      <jump line="6" column="54" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CLI.php" />
+      <jump line="45" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">dXNlIEFzZ2F2YXJcTW9uZXlWYWx1ZU9iamVjdFxNb25leTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+Y3VnZXRTdWJ1bml0cygpOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+Y3VnZXRTdWJ1bml0cygpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAkc3ViVW5pdHMgLiAiQ0hVSiI7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAkdG90YWw7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+Y3VycmVuY3ktPmdldFN1YnVuaXRzUGVyVW5pdCgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly91c2UgQ3VycmVuY3k7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludCkkcmV0Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly91c2UgQ3VycmVuY3k7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">JGNsYXNzTG9hZGVyID0gbmV3IFNwbENsYXNzTG9hZGVyCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>(</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
