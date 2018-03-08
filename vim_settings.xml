@@ -6,18 +6,19 @@
       <file name="/Dummy.txt" timestamp="1520450333332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" timestamp="1520456802823">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" timestamp="1520548185373">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CLI.php" timestamp="1520456475608">
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CLI.php" timestamp="1520548863766">
         <mark key="'" line="17" column="54" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="24" column="81" />
+        <mark key="]" line="24" column="83" />
+        <mark key="." line="24" column="83" />
+        <mark key="^" line="24" column="83" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/MoneyFormatterInterface.php" timestamp="1520454563242">
         <mark key="[" line="2" column="0" />
@@ -30,17 +31,18 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/ThousandSeparatedMoneyFormatter.php" timestamp="1520457033337">
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/ThousandSeparatedMoneyFormatter.php" timestamp="1520547618352">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" timestamp="1520457147802">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" timestamp="1520548242449">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -60,47 +62,52 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIEFzZ2F2YXJcTW9uZXlWYWx1ZU9iamVjdFxNb25leTsK</text>
+        <text encoding="base64">ICAgICRhc19tb25leV9vYmplY3QgPSBuZXcgTW9uZXkoJGN1cnJlbmN5LCBmbG9hdHZhbCgiMjEuOTk5OTk5OTk5OTk5OSIpKTsgIC8vIHdjaWF6IDIxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+Y3VnZXRTdWJ1bml0cygpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+Y3VnZXRTdWJ1bml0cygpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkc3ViVW5pdHMgLiAiQ0hVSiI7Cg==</text>
+        <text encoding="base64">LyoqCiAqIFfFgmHFm2Npd2llIG1vZ8WCYWJ5IGNoeWJhIGJ5xIcgaW50ZXJmZWpzZW0gaW1wbGVtZW50b3dhbnltIGRsYSBrYcW8ZGVqCiAqIHdhbHV0eSBvc29ibm8gaSBtYWrEhWNlaiBtZXRvZMSZIGdldFVuaXRzTGlzdCgpLgogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkdG90YWw7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJHZhbHVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+Y3VycmVuY3ktPmdldFN1YnVuaXRzUGVyVW5pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzdWJVbml0czsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly91c2UgQ3VycmVuY3k7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+Y3VnZXRTdWJ1bml0cygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludCkkcmV0Owo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAkc3ViVW5pdHMgLiAiQ0hVSiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly91c2UgQ3VycmVuY3k7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAkdG90YWw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+Y3VycmVuY3ktPmdldFN1YnVuaXRzUGVyVW5pdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGNsYXNzTG9hZGVyID0gbmV3IFNwbENsYXNzTG9hZGVyCg==</text>
+        <text encoding="base64">Ly91c2UgQ3VycmVuY3k7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
