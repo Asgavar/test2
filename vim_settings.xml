@@ -13,12 +13,12 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CLI.php" timestamp="1520581858941">
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CLI.php" timestamp="1520583788695">
         <mark key="'" line="17" column="54" />
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="24" column="0" />
         <mark key="^" line="7" column="20" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/MoneyFormatterInterface.php" timestamp="1520454563242">
         <mark key="[" line="2" column="0" />
@@ -38,11 +38,11 @@
         <mark key="." line="27" column="45" />
         <mark key="^" line="27" column="45" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" timestamp="1520582943130">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="11" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" timestamp="1520583728293">
+        <mark key="[" line="22" column="62" />
+        <mark key="]" line="22" column="62" />
+        <mark key="." line="22" column="62" />
+        <mark key="^" line="22" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -66,37 +66,37 @@
         <text encoding="base64">ICAgICRhc19tb25leV9vYmplY3QgPSBuZXcgTW9uZXkoJGN1cnJlbmN5LCBmbG9hdHZhbCgiMjEuOTk5OTk5OTk5OTk5OSIpKTsgIC8vIHdjaWF6IDIxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJrd290YTogIiAuICRmbG9hdF92YWx1ZSAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">Ly8gICAgJGFzX21vbmV5X29iamVjdCA9IG5ldyBNb25leSgkY3VycmVuY3ksIGZsb2F0dmFsKCIyMS45OTk5OTk5OTk5OTk5OTk5OTk5IikpOyAgLy8gYSB0dSBqdcW8IDIyIHhECg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJrd290YTogIiAuICRmbG9hdF92YWx1ZSAuIFBIUF9FT0w7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5zdXJlQ3VycmVuY2llc0FyZU9mU2FtZVR5cGUoJHRoaXMsICRtb25leSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgJGFzX21vbmV5X29iamVjdCA9IG5ldyBNb25leSgkY3VycmVuY3ksIGZsb2F0dmFsKCIyMS45OTk5OTk5OTk5OTk5IikpOyAgLy8gdHUgd2NpYXogMjEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJmbG9hdDogIiAuICRmbG9hdF92YWx1ZSAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJrd290YTogIiAuICRmbG9hdF92YWx1ZSAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VycmVuY3kgPSAkbW9uZXktPmdldEN1cnJlbmN5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5zdXJlQ3VycmVuY2llc0FyZU9mU2FtZVR5cGUoJHRoaXMsICRtb25leSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludCkkZWVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJmbG9hdDogIiAuICRmbG9hdF92YWx1ZSAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRlZWUgLiAiZWVlIjsK</text>
+        <text encoding="base64">ICAgICAgICAkY3VycmVuY3kgPSAkbW9uZXktPmdldEN1cnJlbmN5KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBmcmFjdGlvbiBwYXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludCkkZWVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGRpZ2l0c0FmdGVyQ29tbWE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRlZWUgLiAiZWVlIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRkaWdpdHNBZnRlckNvbW1hIC4gInl5eSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBmcmFjdGlvbiBwYXJ0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>$)</text>
       </register>
     </registers>
     <search>
