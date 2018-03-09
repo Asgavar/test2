@@ -13,12 +13,12 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CLI.php" timestamp="1520548863766">
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CLI.php" timestamp="1520581858941">
         <mark key="'" line="17" column="54" />
-        <mark key="[" line="24" column="81" />
-        <mark key="]" line="24" column="83" />
-        <mark key="." line="24" column="83" />
-        <mark key="^" line="24" column="83" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/MoneyFormatterInterface.php" timestamp="1520454563242">
         <mark key="[" line="2" column="0" />
@@ -31,18 +31,18 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/ThousandSeparatedMoneyFormatter.php" timestamp="1520547618352">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/ThousandSeparatedMoneyFormatter.php" timestamp="1520582664580">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="45" />
+        <mark key="^" line="27" column="45" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" timestamp="1520548242449">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" timestamp="1520582943130">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -59,43 +59,44 @@
       <jump line="2" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" />
       <jump line="6" column="54" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CLI.php" />
       <jump line="45" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" />
+      <jump line="13" column="20" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRhc19tb25leV9vYmplY3QgPSBuZXcgTW9uZXkoJGN1cnJlbmN5LCBmbG9hdHZhbCgiMjEuOTk5OTk5OTk5OTk5OSIpKTsgIC8vIHdjaWF6IDIxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJrd290YTogIiAuICRmbG9hdF92YWx1ZSAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJrd290YTogIiAuICRmbG9hdF92YWx1ZSAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIFfFgmHFm2Npd2llIG1vZ8WCYWJ5IGNoeWJhIGJ5xIcgaW50ZXJmZWpzZW0gaW1wbGVtZW50b3dhbnltIGRsYSBrYcW8ZGVqCiAqIHdhbHV0eSBvc29ibm8gaSBtYWrEhWNlaiBtZXRvZMSZIGdldFVuaXRzTGlzdCgpLgogKi8K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5zdXJlQ3VycmVuY2llc0FyZU9mU2FtZVR5cGUoJHRoaXMsICRtb25leSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJmbG9hdDogIiAuICRmbG9hdF92YWx1ZSAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzdWJVbml0czsK</text>
+        <text encoding="base64">ICAgICAgICAkY3VycmVuY3kgPSAkbW9uZXktPmdldEN1cnJlbmN5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+Y3VnZXRTdWJ1bml0cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludCkkZWVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkc3ViVW5pdHMgLiAiQ0hVSiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRlZWUgLiAiZWVlIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkdG90YWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBmcmFjdGlvbiBwYXJ0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+Y3VycmVuY3ktPmdldFN1YnVuaXRzUGVyVW5pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGRpZ2l0c0FmdGVyQ29tbWE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly91c2UgQ3VycmVuY3k7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRkaWdpdHNBZnRlckNvbW1hIC4gInl5eSI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -120,6 +121,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
