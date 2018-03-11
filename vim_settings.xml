@@ -23,6 +23,9 @@
       <file name="/Python Console" timestamp="1520549823389">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cs" timestamp="1520793959362">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/MoneyFormatterInterface.php" timestamp="1520454563242">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -34,6 +37,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista03/Singleton/Class1.cs" timestamp="1520793827917">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CurrencyInterface.php" timestamp="1520448495313">
         <mark key="[" line="4" column="0" />
@@ -52,6 +61,12 @@
         <mark key="]" line="22" column="62" />
         <mark key="." line="22" column="62" />
         <mark key="^" line="22" column="62" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista03/Singleton/TimeNTon.cs" timestamp="1520793892169">
+        <mark key="[" line="39" column="53" />
+        <mark key="]" line="40" column="35" />
+        <mark key="^" line="40" column="35" />
+        <mark key="." line="40" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -75,37 +90,37 @@
         <text encoding="base64">ICAgICRhc19tb25leV9vYmplY3QgPSBuZXcgTW9uZXkoJGN1cnJlbmN5LCBmbG9hdHZhbCgiMjEuOTk5OTk5OTk5OTk5OSIpKTsgIC8vIHdjaWF6IDIxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgJGFzX21vbmV5X29iamVjdCA9IG5ldyBNb25leSgkY3VycmVuY3ksIGZsb2F0dmFsKCIyMS45OTk5OTk5OTk5OTk5OTk5OTk5IikpOyAgLy8gYSB0dSBqdcW8IDIyIHhECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$)</text>
+        <text>s</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgJGFzX21vbmV5X29iamVjdCA9IG5ldyBNb25leSgkY3VycmVuY3ksIGZsb2F0dmFsKCIyMS45OTk5OTk5OTk5OTk5IikpOyAgLy8gdHUgd2NpYXogMjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJrd290YTogIiAuICRmbG9hdF92YWx1ZSAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdldEhvdXJGcm9tRXBvY2goc2Vjb25kc1NpbmNlSmFuMTk3MCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5zdXJlQ3VycmVuY2llc0FyZU9mU2FtZVR5cGUoJHRoaXMsICRtb25leSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJmbG9hdDogIiAuICRmbG9hdF92YWx1ZSAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VycmVuY3kgPSAkbW9uZXktPmdldEN1cnJlbmN5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludCkkZWVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRlZWUgLiAiZWVlIjsK</text>
+        <text encoding="base64">ICAgIGNsYXNzIENsYXNzMUltcGwgOiBDbGFzczEKICAgIHsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBmcmFjdGlvbiBwYXJ0Cg==</text>
+        <text encoding="base64">Ly8gICAgJGFzX21vbmV5X29iamVjdCA9IG5ldyBNb25leSgkY3VycmVuY3ksIGZsb2F0dmFsKCIyMS45OTk5OTk5OTk5OTk5OTk5OTk5IikpOyAgLy8gYSB0dSBqdcW8IDIyIHhECg==</text>
       </register>
       <register name="-" type="4">
-        <text>$)</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
