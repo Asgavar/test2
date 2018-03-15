@@ -23,16 +23,7 @@
       <file name="/Python Console" timestamp="1520549823389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cs" timestamp="1520793959362">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/MoneyFormatterInterface.php" timestamp="1520454563242">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/venv/pyvenv.cfg" timestamp="1520549745596">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -44,10 +35,8 @@
         <mark key="." line="29" column="47" />
         <mark key="^" line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CurrencyInterface.php" timestamp="1520448495313">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cs" timestamp="1520793959362">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/ThousandSeparatedMoneyFormatter.php" timestamp="1520582664580">
         <mark key="'" line="29" column="0" />
@@ -55,6 +44,23 @@
         <mark key="]" line="27" column="45" />
         <mark key="." line="27" column="45" />
         <mark key="^" line="27" column="45" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product.php" timestamp="1521142019232">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+        <mark key="^" line="34" column="21" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/venv/pyvenv.cfg" timestamp="1520549745596">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/CurrencyInterface.php" timestamp="1520448495313">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" timestamp="1520583728293">
         <mark key="[" line="22" column="62" />
@@ -90,34 +96,34 @@
         <text encoding="base64">ICAgICRhc19tb25leV9vYmplY3QgPSBuZXcgTW9uZXkoJGN1cnJlbmN5LCBmbG9hdHZhbCgiMjEuOTk5OTk5OTk5OTk5OSIpKTsgIC8vIHdjaWF6IDIxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0UHJpY2UoKSBtZXRob2QuCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0UHJpY2UoKSBtZXRob2QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0TmFtZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdldEhvdXJGcm9tRXBvY2goc2Vjb25kc1NpbmNlSmFuMTk3MCkpCg==</text>
+        <text encoding="base64">dXNlIE1vbmV5XE1vbmV5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGFzZ2F2YXIKICogRGF0ZTogMTUuMDMuMTgKICogVGltZTogMjA6MTgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIENsYXNzMUltcGwgOiBDbGFzczEKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdldEhvdXJGcm9tRXBvY2goc2Vjb25kc1NpbmNlSmFuMTk3MCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgJGFzX21vbmV5X29iamVjdCA9IG5ldyBNb25leSgkY3VycmVuY3ksIGZsb2F0dmFsKCIyMS45OTk5OTk5OTk5OTk5OTk5OTk5IikpOyAgLy8gYSB0dSBqdcW8IDIyIHhECg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
