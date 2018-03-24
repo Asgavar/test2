@@ -107,11 +107,10 @@
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/DataSpecifications/ProductIndividual.php" timestamp="1521897696591">
         <mark key="'" line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" timestamp="1521908771588">
-        <mark key="[" line="31" column="45" />
-        <mark key="]" line="31" column="45" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="31" column="45" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" timestamp="1521908958340">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/demo.php" timestamp="1521187426147">
         <mark key="[" line="33" column="21" />
@@ -187,34 +186,34 @@
         <text encoding="base64">JGJ1bmRsZU9mQWxsVGhyZWUtPmFkZFByb2R1Y3QoJHByb2R1Y3QxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUmVzcG9uc2UoImVlaCIsIDIwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gamVzbGkgdG8gcGllcndzenkgemFwaXN5d2FueSBwcm9kdWt0Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gamVzbGkgdG8gcGllcndzenkgemFwaXN5d2FueSBwcm9kdWt0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkNIVUoiOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUmVzcG9uc2UoImVlaCIsIDIwMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIkNIVUoiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGFwcC0+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">JGFwcC0+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">JGFwcC0+cG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGVlZSA9IG5ldyBNb25leSgwKTsKJGVlZS0+Cg==</text>
+        <text encoding="base64">JGFwcC0+cG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV3UHJpY2UtPm11bHRpcGx5KCR0aGlzLT5wcmljZU1vZGlmaWVyKTsK</text>
+        <text encoding="base64">JGVlZSA9IG5ldyBNb25leSgwKTsKJGVlZS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFBIUHJvZHVjdHNcUHJvZHVjdFxEaXNjb3VudGVkUHJvZHVjdDsK</text>
+        <text encoding="base64">ICAgICAgICAkbmV3UHJpY2UtPm11bHRpcGx5KCR0aGlzLT5wcmljZU1vZGlmaWVyKTsK</text>
       </register>
       <register name="-" type="4">
         <text>\</text>
