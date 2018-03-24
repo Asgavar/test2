@@ -93,6 +93,11 @@
         <mark key="^" line="47" column="53" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsDeleteController.php" timestamp="1521916662167">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/DiscountedProduct.php" timestamp="1521145446099">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -229,34 +234,34 @@
         <text encoding="base64">JGJ1bmRsZU9mQWxsVGhyZWUtPmFkZFByb2R1Y3QoJHByb2R1Y3QxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkcHJvZHVjdDsK</text>
+        <text encoding="base64">ZWNobyAkcHJvZHVjdDsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkcHJvZHVjdDsK</text>
+        <text encoding="base64">ZWNobyAkcHJvZHVjdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJlZWUiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkcHJvZHVjdDsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICJlZWUiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT5wcm9kdWN0c0FycmF5WzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJlZWUiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJhYWEiOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT5wcm9kdWN0c0FycmF5WzBdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV8K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJhYWEiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cHJvZHVjdHNBcnJheS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnJheV8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiVVVVQUFBIjsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cHJvZHVjdHNBcnJheS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJad3JhY2FtIHdzenlzdGtpZSIgLiBQSFBfRU9MOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiVVVVQUFBIjsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
