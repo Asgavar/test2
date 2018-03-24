@@ -57,6 +57,9 @@
         <mark key="." line="27" column="45" />
         <mark key="^" line="27" column="45" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/DataSpecifications/ProductIndividual.php" timestamp="1521897696591">
+        <mark key="'" line="30" column="34" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/IProductCollection.php" timestamp="1521146115164">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -149,6 +152,7 @@
       <jump line="13" column="20" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" />
       <jump line="47" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Bundle.php" />
       <jump line="11" column="17" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Bundle.php" />
+      <jump line="30" column="34" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/DataSpecifications/ProductIndividual.php" />
     </jumps>
     <registers>
       <register name="0" type="2">
