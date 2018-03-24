@@ -58,11 +58,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cs" timestamp="1520793959362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Serializers/JSONProductSerializer.php" timestamp="1521913431657">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="23" column="49" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Serializers/JSONProductSerializer.php" timestamp="1521920066400">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="28" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/IProductCollection.php" timestamp="1521146115164">
         <mark key="[" line="2" column="0" />
@@ -93,11 +93,11 @@
         <mark key="^" line="47" column="53" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsDeleteController.php" timestamp="1521918619046">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="21" column="25" />
-        <mark key="^" line="17" column="31" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsDeleteController.php" timestamp="1521920233751">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/DiscountedProduct.php" timestamp="1521145446099">
         <mark key="[" line="13" column="0" />
@@ -145,18 +145,19 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" timestamp="1521919367304">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="16" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" timestamp="1521920570719">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="72" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" timestamp="1521919104694">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="105" column="9" />
-        <mark key="]" line="105" column="9" />
-        <mark key="^" line="105" column="9" />
-        <mark key="." line="105" column="9" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" timestamp="1521920333920">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="95" column="61" />
+        <mark key="]" line="93" column="4" />
+        <mark key="." line="93" column="4" />
+        <mark key="^" line="93" column="4" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/demo.php" timestamp="1521187426147">
         <mark key="[" line="33" column="21" />
@@ -186,18 +187,21 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1521919546437">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista03/Singleton/TimeNTon.cs" timestamp="1520793892169">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="40" column="35" />
         <mark key="^" line="40" column="35" />
         <mark key="." line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/app.php" timestamp="1521919324840">
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/app.php" timestamp="1521920403360">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="49" column="28" />
-        <mark key="." line="49" column="28" />
-        <mark key="^" line="49" column="28" />
+        <mark key="[" line="60" column="28" />
+        <mark key="]" line="60" column="28" />
+        <mark key="." line="60" column="28" />
+        <mark key="^" line="50" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -236,43 +240,49 @@
       <jump line="64" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
       <jump line="59" column="23" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
       <jump line="105" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
+      <jump line="28" column="29" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" />
+      <jump line="95" column="14" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" />
+      <jump line="44" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBSRVNUZnVsUHJvZHVjdHNcQ29udHJvbGxlcnM7Cgp1c2UgTW9uZXlcTW9uZXk7Cgp1c2UgUkVTVGZ1bFByb2R1Y3RzXERhdGFTcGVjaWZpY2F0aW9uc1xQcm9kdWN0SW5kaXZpZHVhbDsKdXNlIFJFU1RmdWxQcm9kdWN0c1xTZXJpYWxpemVyc1xQcm9kdWN0U2VyaWFsaXplckludGVyZmFjZTsKdXNlIFJFU1RmdWxQcm9kdWN0c1xTdG9yYWdlTWFuYWdlcnNcUHJvZHVjdFN0b3JhZ2VNYW5hZ2VySW50ZXJmYWNlOwoKCi8qKgogICBUd29yenkgcHJvZHVrdCB6IGxvc293eW1pIGRhbnltaS4KICovCmNsYXNzIFByb2R1Y3RzUG9zdENvbnRyb2xsZXIKewogICAgcHJpdmF0ZSAkc2VyaWFsaXplcjsKICAgIHByaXZhdGUgJHN0b3JhZ2VNYW5hZ2VyOwogICAgcHJpdmF0ZSAkbmV3TmFtZTsKCgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KFByb2R1Y3RTZXJpYWxpemVySW50ZXJmYWNlICRzZXJpYWxpemVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2R1Y3RTdG9yYWdlTWFuYWdlckludGVyZmFjZSAkc3RvcmFnZU1hbmFnZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nICRuZXdOYW1lKQogICAgewogICAgICAgICR0aGlzLT5zZXJpYWxpemVyID0gJHNlcmlhbGl6ZXI7CiAgICAgICAgJHRoaXMtPnN0b3JhZ2VNYW5hZ2VyID0gJHN0b3JhZ2VNYW5hZ2VyOwogICAgICAgICR0aGlzLT5uZXdOYW1lID0gJG5ld05hbWU7CiAgICB9CgoKICAgIHB1YmxpYyBmdW5jdGlvbiBfX2ludm9rZSgpCiAgICB7CiAgICAgICAgJG5ld1Byb2R1Y3QgPSBuZXcgUHJvZHVjdEluZGl2aWR1YWwoCiAgICAgICAgICAgIC00MiwgIC8vIGVoaAogICAgICAgICAgICAkdGhpcy0+bmV3TmFtZSwKICAgICAgICAgICAgTW9uZXk6OlBMTihyYW5kKCkpCiAgICAgICAgKTsKICAgICAgICAkdGhpcy0+c3RvcmFnZU1hbmFnZXItPndyaXRlUHJvZHVjdCgkbmV3UHJvZHVjdCk7CiAgICAgICAgcmV0dXJuICRuZXdQcm9kdWN0LT5nZXRJRCgpIC4gIiB6YXBpc2FueSEiOwogICAgfQp9</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBSRVNUZnVsUHJvZHVjdHNcQ29udHJvbGxlcnM7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB1bmxpbmsoJGZpbGVuYW1lKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBSRVNUZnVsUHJvZHVjdHNcQ29udHJvbGxlcnM7</text>
+        <text>$</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRqc29uU2VyaWFsaXplcgo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZmlsZXN5c3RlbS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBpbnNlcnRQcm9kdWN0KCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnNlcmlhbGl6ZXItPnNlcmlhbGl6ZWRJbmRpdmlkdWFsKAogICAgICAgICAgICAkdGhpcy0+c3RvcmFnZU1hbmFnZXItPmxvYWRQcm9kdWN0KCR0aGlzLT5wcm9kdWN0SWQpCiAgICAgICAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaW5zZXJ0UHJvZHVjdCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLCAgLy8gZWhoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZGVsZXRlUHJvZHVjdCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">LyoqCiAgIFR3b3J6eSBwcm9kdWt0IHogbG9zb3d5bWkgZGFueW1pLgogKi8K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB3cml0ZVByb2R1Y3QoUHJvZHVjdEluZGl2aWR1YWwgJHByb2R1Y3QpOiB2b2lkOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBSRVNUZnVsUHJvZHVjdHNcQ29udHJvbGxlcnM7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRqc29uU2VyaWFsaXplcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBpbnNlcnRQcm9kdWN0KCkgbWV0aG9kLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YW1lc3BhY2UgUkVTVGZ1bFByb2R1Y3RzXENvbnRyb2xsZXJzOwoKCgpsYXNzIFByb2R1Y3RzRGVsZXRlQ29udHJvbGxlcgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaW5zZXJ0UHJvZHVjdCgpIG1ldGhvZC4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$</text>
       </register>
     </registers>
     <search>
@@ -309,6 +319,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
