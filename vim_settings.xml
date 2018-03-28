@@ -27,11 +27,11 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/DivideExpression.java" timestamp="1522241108261">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="21" column="69" />
-        <mark key="^" line="21" column="69" />
-        <mark key="." line="21" column="69" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/DivideExpression.java" timestamp="1522241880182">
+        <mark key="[" line="21" column="76" />
+        <mark key="]" line="21" column="80" />
+        <mark key="^" line="21" column="80" />
+        <mark key="." line="21" column="80" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/ProductStorageManagerInterface.php" timestamp="1521919071319">
         <mark key="[" line="13" column="49" />
@@ -144,11 +144,11 @@
         <mark key="." line="29" column="47" />
         <mark key="^" line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/AddExpression.java" timestamp="1522241020462">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="21" column="66" />
-        <mark key="^" line="21" column="66" />
-        <mark key="." line="21" column="66" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/AddExpression.java" timestamp="1522241855070">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="74" />
+        <mark key="^" line="21" column="74" />
+        <mark key="." line="21" column="74" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/PlusExpression.java" timestamp="1522232088221">
         <mark key="[" line="11" column="29" />
@@ -304,11 +304,11 @@
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/DivideExpression.java" timestamp="1522232178565">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/MultiplyExpresssion.java" timestamp="1522241053358">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="21" column="76" />
-        <mark key="." line="21" column="76" />
-        <mark key="^" line="21" column="76" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/MultiplyExpresssion.java" timestamp="1522241889391">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/PriceDescendingItemOrder.java" timestamp="1521994784350">
         <mark key="[" line="13" column="21" />
@@ -322,11 +322,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/SubstractExpression.java" timestamp="1522241081630">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="21" column="71" />
-        <mark key="^" line="21" column="71" />
-        <mark key="." line="21" column="71" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/SubstractExpression.java" timestamp="1522241867110">
+        <mark key="[" line="21" column="72" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1521993629178">
         <mark key="[" line="0" column="0" />
@@ -396,35 +396,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJXeXJhemVuaWU6Iik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KwogICAgICAgIA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">KwogICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgSGFzaE1hcDxTdHJpbmcsIEludGVnZXI+IHZhcmlhYmxlVmFsdWVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgSGFzaE1hcDxTdHJpbmcsIEludGVnZXI+IHZhcmlhYmxlVmFsdWVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLyoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLyoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ29uc3RhbnRFeHByZXNzaW9uKDcpLmV2YWx1YXRlKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgQ29uc3RhbnRFeHByZXNzaW9uKDcpLmV2YWx1YXRlKG51bGwpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
