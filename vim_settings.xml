@@ -60,6 +60,12 @@
         <mark key="." line="30" column="50" />
         <mark key="^" line="30" column="50" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/MultiplyExpression.java" timestamp="1522232167510">
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/composer.json" timestamp="1521186386598">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="14" column="3" />
@@ -120,11 +126,23 @@
         <mark key="." line="29" column="47" />
         <mark key="^" line="29" column="47" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/PlusExpression.java" timestamp="1522232088221">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+        <mark key="^" line="16" column="59" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Serializers/JSONProductSerializer.php" timestamp="1521920066400">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/VariableExpression.java" timestamp="1522231930908">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/NumberedLinesReportFormatter.java" timestamp="1521990901370">
         <mark key="[" line="15" column="8" />
@@ -183,6 +201,13 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/ConstantExpression.java" timestamp="1522231854978">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Main.java" timestamp="1521992010755">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="49" />
@@ -234,11 +259,20 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/DivideExpression.java" timestamp="1522232178565">
+        <mark key="[" line="2" column="31" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/PriceDescendingItemOrder.java" timestamp="1521994784350">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/Expression.java" timestamp="1522231746319">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1521993629178">
         <mark key="[" line="0" column="0" />
@@ -296,43 +330,44 @@
       <jump line="136" column="0" filename="/usr/lib/jvm/icedtea-bin-8/jre/lib/rt.jar!/java/lang/Byte.class" />
       <jump line="8" column="34" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/StdoutReportPrinter.java" />
       <jump line="13" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Rectangle.java" />
+      <jump line="8" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/ConstantExpression.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbm90aGVyQ2FzaFJlZ2lzdGVyLmFkZEl0ZW0oInByemVkbWlvdFgiLDQyKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRXhwcmVzc2lvbiBsZWZ0U2lkZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtcy5mb3IoaXRlbSAtPiBzdW0uYWRkKGl0ZW0uZ2V0UHJpY2UoKSkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNoUmVnaXN0ZXIucHJpbnRCaWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtcy5mb3IoaXRlbSAtPiBzdW0uYWRkKGl0ZW0uZ2V0UHJpY2UoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNoUmVnaXN0ZXIucHJpbnRCaWxsKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIHN1bSA9IG5ldyBCaWdEZWNpbWFsKDApOwo=</text>
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLml0ZW1zLmFkZChuZXcgSXRlbShuYW1lLCBuZXcgQmlnRGVjaW1hbCh0YXguY2FsY3VsYXRlVGF4KHByaWNlKSkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIHN1bSA9IG5ldyBCaWdEZWNpbWFsKDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGF4Q2FsY3VsYXRvciB0YXhDYWxjOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLml0ZW1zLmFkZChuZXcgSXRlbShuYW1lLCBuZXcgQmlnRGVjaW1hbCh0YXguY2FsY3VsYXRlVGF4KHByaWNlKSkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGF4Q2FsY3VsYXRvciB0YXhDYWxjOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQ29uc29sZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>leftSide</text>
       </register>
     </registers>
     <search>
