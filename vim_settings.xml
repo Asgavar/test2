@@ -21,7 +21,7 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" timestamp="1522331033943">
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" timestamp="1522331408484">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="8" column="8" />
         <mark key="]" line="4" column="35" />
@@ -276,12 +276,12 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" timestamp="1522329606034">
-        <mark key="'" line="13" column="3" />
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" timestamp="1522332378010">
+        <mark key="'" line="11" column="3" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
         <mark key="^" line="6" column="3" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Main.java" timestamp="1521992010755">
         <mark key="[" line="11" column="51" />
@@ -319,11 +319,11 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportFormatter.java" timestamp="1522250633447">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportFormatter.java" timestamp="1522331826660">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/NameLexicographicalItemOrder.java" timestamp="1521994579230">
         <mark key="[" line="10" column="65" />
@@ -453,34 +453,34 @@
         <text encoding="base64">Ly8gICAgZm9yIChpbnQgeCA9IDA7IHggPCByYW5rcy5nZXRBbGwoKS5sZW5ndGg7IHgrKykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJlcG9ydERhdGFQcm92aWRlciBkYXRhUHJvdmlkZXIgPSBkYXRhU291cmNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJlcG9ydERhdGFQcm92aWRlciBkYXRhUHJvdmlkZXIgPSBkYXRhU291cmNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJlcG9ydERhdGFQcm92aWRlciBkYXRhUHJvdmlkZXIgPSBkYXRhU291cmNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqCiAqLwo=</text>
+        <text encoding="base64">ICAgIFJlcG9ydERhdGFQcm92aWRlciBkYXRhUHJvdmlkZXIgPSBkYXRhU291cmNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFJlcG9ydEZvcm1hdHRlciBkYXRhRm9ybWF0dGVyOwo=</text>
+        <text encoding="base64">ICAgIFJlcG9ydERhdGFQcm92aWRlciBkYXRhUHJvdmlkZXIgPSBkYXRhU291cmNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFJlcG9ydERhdGFQcm92aWRlciBkYXRhUHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">LyoqCiAqCiAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgZm9yIChpbnQgeCA9IDA7IHggPCByYW5rcy5nZXRBbGwoKS5sZW5ndGg7IHgrKykK</text>
+        <text encoding="base64">ICBwcml2YXRlIFJlcG9ydEZvcm1hdHRlciBkYXRhRm9ybWF0dGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGN6ZW11IHRvIG5pZSBkemlhbGE/Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFJlcG9ydERhdGFQcm92aWRlciBkYXRhUHJvdmlkZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJhd1JlcG9ydFN0cmluZzsKCgoKCg==</text>
+        <text encoding="base64">Ly8gICAgZm9yIChpbnQgeCA9IDA7IHggPCByYW5rcy5nZXRBbGwoKS5sZW5ndGg7IHgrKykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBOdW1iZXJlZExpbmVzUmVwb3J0Rm9ybWF0dGVyKFN0cmluZyByYXdSZXBvcnRTdHJpbmcpIHsKICAgICAgICB0aGlzLnJhd1JlcG9ydFN0cmluZyA9IHJhd1JlcG9ydFN0cmluZzsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGN6ZW11IHRvIG5pZSBkemlhbGE/Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
