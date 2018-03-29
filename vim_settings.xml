@@ -15,20 +15,29 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/ConstantExpression.java" timestamp="1522240977597">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" timestamp="1521991149850">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="4" column="35" />
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/DivideExpression.java" timestamp="1522241880182">
+        <mark key="[" line="21" column="76" />
+        <mark key="]" line="21" column="80" />
+        <mark key="^" line="21" column="80" />
+        <mark key="." line="21" column="80" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/ProductStorageManagerInterface.php" timestamp="1521919071319">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="13" column="75" />
         <mark key="^" line="13" column="75" />
         <mark key="." line="13" column="75" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cs" timestamp="1520793959362">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Rectangle.java" timestamp="1521991931091">
         <mark key="[" line="18" column="8" />
@@ -42,6 +51,12 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/MultiplyExpresion.java" timestamp="1522240555189">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/BillPrinter.java" timestamp="1521994939742">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
@@ -54,23 +69,23 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/Main.java" timestamp="1521996205631">
-        <mark key="[" line="29" column="53" />
-        <mark key="]" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="30" column="50" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/SubstractExpression.java" timestamp="1522232324710">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="15" column="59" />
-        <mark key="^" line="15" column="59" />
-        <mark key="." line="15" column="59" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/Main.java" timestamp="1522249727566">
+        <mark key="[" line="37" column="104" />
+        <mark key="]" line="37" column="67" />
+        <mark key="." line="37" column="67" />
+        <mark key="^" line="37" column="67" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/MultiplyExpression.java" timestamp="1522232167510">
         <mark key="[" line="2" column="54" />
         <mark key="]" line="2" column="53" />
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/StdoutReportPrinter.java" timestamp="1522250701319">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/composer.json" timestamp="1521186386598">
         <mark key="[" line="18" column="1" />
@@ -84,11 +99,29 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/Podporucznik.java" timestamp="1522245918660">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/MilitaryRank.java" timestamp="1522245794786">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/StdoutBillPrinter.java" timestamp="1521995047534">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="10" column="32" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/Chorąży.java" timestamp="1522245859402">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Rectangular.java" timestamp="1521991705667">
         <mark key="[" line="2" column="30" />
@@ -102,9 +135,6 @@
         <mark key="." line="22" column="62" />
         <mark key="^" line="22" column="62" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1521919546437">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista03/Singleton/TimeNTon.cs" timestamp="1520793892169">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="40" column="35" />
@@ -117,13 +147,15 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1520549823389">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/MoneyFormatterInterface.php" timestamp="1520454563242">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/OrderedCollectionMember.java" timestamp="1522244170105">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista03/Singleton/Class1.cs" timestamp="1520793827917">
@@ -131,6 +163,18 @@
         <mark key="]" line="29" column="47" />
         <mark key="." line="29" column="47" />
         <mark key="^" line="29" column="47" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/AddExpression.java" timestamp="1522241855070">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="74" />
+        <mark key="^" line="21" column="74" />
+        <mark key="." line="21" column="74" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/Szeregowy.java" timestamp="1522245670951">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/PlusExpression.java" timestamp="1522232088221">
         <mark key="[" line="11" column="29" />
@@ -150,11 +194,11 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/NumberedLinesReportFormatter.java" timestamp="1521990901370">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="27" column="28" />
-        <mark key="." line="17" column="32" />
-        <mark key="^" line="24" column="30" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/NumberedLinesReportFormatter.java" timestamp="1522250660607">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/DiscountedProduct.php" timestamp="1521187241411">
         <mark key="[" line="19" column="32" />
@@ -168,17 +212,17 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/Main.java" timestamp="1521991115962">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/Main.java" timestamp="1522250666103">
+        <mark key="[" line="7" column="69" />
+        <mark key="]" line="7" column="69" />
+        <mark key="." line="7" column="69" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/CashRegister.java" timestamp="1521996431671">
-        <mark key="[" line="40" column="60" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="41" column="8" />
-        <mark key="^" line="41" column="8" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/CashRegister.java" timestamp="1522249766710">
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="36" column="41" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="36" column="41" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/Item.java" timestamp="1521995410455">
         <mark key="[" line="12" column="21" />
@@ -192,8 +236,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521906853374">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/Main.java" timestamp="1522241676840">
+        <mark key="[" line="34" column="48" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="49" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/Bundle.php" timestamp="1521186949434">
         <mark key="[" line="44" column="31" />
@@ -207,12 +254,16 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/ConstantExpression.java" timestamp="1522231854978">
-        <mark key="'" line="8" column="3" />
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/Expression.java" timestamp="1522240156461">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" timestamp="1522250620848">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Main.java" timestamp="1521992010755">
         <mark key="[" line="11" column="51" />
@@ -220,8 +271,11 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ConstantDataProvider.java" timestamp="1521989395305">
-        <mark key="[" line="2" column="35" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/VariableExpression.java" timestamp="1522241619950">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/ItemOrder.java" timestamp="1521994002405">
         <mark key="[" line="2" column="28" />
@@ -241,17 +295,29 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportFormatter.java" timestamp="1521989124801">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="8" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/AscendingOrderedCollection.java" timestamp="1522245283018">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportFormatter.java" timestamp="1522250633447">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/NameLexicographicalItemOrder.java" timestamp="1521994579230">
         <mark key="[" line="10" column="65" />
         <mark key="]" line="12" column="21" />
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/StarszySzeregowy.java" timestamp="1522245823850">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/demo.php" timestamp="1521187426147">
         <mark key="[" line="33" column="21" />
@@ -265,12 +331,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/DivideExpression.java" timestamp="1522232256084">
-        <mark key="'" line="5" column="26" />
-        <mark key="[" line="8" column="73" />
-        <mark key="]" line="17" column="1" />
-        <mark key="." line="17" column="1" />
-        <mark key="^" line="17" column="1" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/MultiplyExpresssion.java" timestamp="1522241889391">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/PriceDescendingItemOrder.java" timestamp="1521994784350">
         <mark key="[" line="13" column="21" />
@@ -284,14 +349,29 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1521993629178">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/SubstractExpression.java" timestamp="1522241867110">
+        <mark key="[" line="21" column="72" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/Main.java" timestamp="1522246346371">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="32" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ConstantReportDataProvider.java" timestamp="1521990845283">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="85" />
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/PlusExpression.java" timestamp="1522240528525">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -341,44 +421,43 @@
       <jump line="8" column="34" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/StdoutReportPrinter.java" />
       <jump line="13" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Rectangle.java" />
       <jump line="8" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/ConstantExpression.java" />
-      <jump line="7" column="26" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/DivideExpression.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRXhwcmVzc2lvbiBsZWZ0U2lkZTsK</text>
+        <text encoding="base64">Ly8gICAgZm9yIChpbnQgeCA9IDA7IHggPCByYW5rcy5nZXRBbGwoKS5sZW5ndGg7IHgrKykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJhd1JlcG9ydFN0cmluZzsKCgoKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dataProvider</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc2VjdXJpdHkuc3BlYy5FQ1BhcmFtZXRlclNwZWM7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBOdW1iZXJlZExpbmVzUmVwb3J0Rm9ybWF0dGVyKFN0cmluZyByYXdSZXBvcnRTdHJpbmcpIHsKICAgICAgICB0aGlzLnJhd1JlcG9ydFN0cmluZyA9IHJhd1JlcG9ydFN0cmluZzsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRUNQYXJhbWV0ZXJTcGUK</text>
+        <text encoding="base64">ICAgICAgICBSZXBvcnRGb3JtYXR0ZXIgZm9ybWF0dGVyID0gbmV3IHRoaXMuZm9ybWF0dGVyQ2xhc3MuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZvcm1hdHRlci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVwb3J0UHJpbnRlciBwcmludGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtcy5mb3IoaXRlbSAtPiBzdW0uYWRkKGl0ZW0uZ2V0UHJpY2UoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByaW50ZXIgPSBwcmludGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNoUmVnaXN0ZXIucHJpbnRCaWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIHN1bSA9IG5ldyBCaWdEZWNpbWFsKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByaW50ZXIucHJpbnRSZXBvcnQoCg==</text>
       </register>
       <register name="-" type="4">
-        <text>leftSide</text>
+        <text>dataProvider</text>
       </register>
     </registers>
     <search>
@@ -421,6 +500,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
