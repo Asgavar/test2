@@ -21,7 +21,8 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" timestamp="1521991149850">
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" timestamp="1522331033943">
+        <mark key="'" line="32" column="0" />
         <mark key="[" line="8" column="8" />
         <mark key="]" line="4" column="35" />
         <mark key="." line="4" column="35" />
@@ -445,6 +446,7 @@
       <jump line="3" column="2" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
       <jump line="2" column="1" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
       <jump line="13" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
