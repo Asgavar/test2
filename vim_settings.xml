@@ -101,11 +101,11 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/SimpleVat23TaxCalculator.java" timestamp="1521993823157">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="46" />
-        <mark key="^" line="8" column="46" />
-        <mark key="." line="8" column="46" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/SimpleVat23TaxCalculator.java" timestamp="1522333896332">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/Podporucznik.java" timestamp="1522245918660">
         <mark key="[" line="2" column="27" />
@@ -447,6 +447,7 @@
       <jump line="2" column="1" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
       <jump line="13" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
       <jump line="32" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/SimpleVat23TaxCalculator.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -529,6 +530,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
