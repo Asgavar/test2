@@ -276,12 +276,12 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" timestamp="1522332378010">
-        <mark key="'" line="11" column="3" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" timestamp="1522428734972">
+        <mark key="'" line="6" column="37" />
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="3" />
         <mark key="^" line="6" column="3" />
-        <mark key="." line="11" column="0" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Main.java" timestamp="1521992010755">
         <mark key="[" line="11" column="51" />
@@ -448,15 +448,22 @@
       <jump line="13" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
       <jump line="32" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/SimpleVat23TaxCalculator.java" />
+      <jump line="6" column="37" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>ReportDataProvider dataSource</text>
+      </register>
+      <register name="-" type="4">
+        <text>ReportDataProvider dataSource</text>
+      </register>
+      <register name="/" type="4">
+        <text>Sour</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgZm9yIChpbnQgeCA9IDA7IHggPCByYW5rcy5nZXRBbGwoKS5sZW5ndGg7IHgrKykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
@@ -483,16 +490,22 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE86IGN6ZW11IHRvIG5pZSBkemlhbGE/Cg==</text>
       </register>
-      <register name="-" type="4">
-        <text>.</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Sour</last-search>
+      <last-offset />
+      <last-pattern>Sour</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>d</entry>
+        <entry>r</entry>
+        <entry>rov</entry>
+        <entry>sour</entry>
+        <entry>Sour</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
