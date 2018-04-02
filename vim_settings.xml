@@ -84,11 +84,12 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" timestamp="1522698637254">
-        <mark key="[" line="50" column="79" />
-        <mark key="]" line="50" column="3" />
-        <mark key="." line="50" column="3" />
-        <mark key="^" line="50" column="3" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" timestamp="1522700137029">
+        <mark key="'" line="64" column="37" />
+        <mark key="[" line="65" column="65" />
+        <mark key="]" line="65" column="65" />
+        <mark key="." line="65" column="65" />
+        <mark key="^" line="59" column="12" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/SubstractExpression.java" timestamp="1522232324710">
         <mark key="[" line="14" column="23" />
@@ -302,11 +303,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/Main.java" timestamp="1522697340405">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/Main.java" timestamp="1522700037243">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+        <mark key="^" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Main.java" timestamp="1521992010755">
         <mark key="[" line="11" column="51" />
@@ -493,46 +494,52 @@
       <jump line="25" column="20" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleProducer.java" />
       <jump line="20" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleConsumer.java" />
       <jump line="43" column="1" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleConsumer.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
+      <jump line="64" column="37" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZmluYWxpemUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>Sour</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigicHJvZHVjZW50IHdjaG9kemUiKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUHJ6ZWQgcG9zb3J0b3dhbmllbTogIiArIGFycmF5VG9Tb3J0LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmluYWxpemUoKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMubWVyZ2UoYXJyYXlNaWRkbGUsIHRoaXMucmlnaHRCb3VuZGFyeSwgMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG1lcmdlUmlnaHRTaWRlLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChsZWZ0RW5kIC0gbGVmdFN0YXJ0ICE9IDAgJiYgcmlnaHRFbmQgLSByaWdodFN0YXJ0ICE9IDApIHsK</text>
+        <text encoding="base64">ICAgIGludCBjb3B5Q291bnRlciA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgcnVuKCkgewogICAgCiAgfQogIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hcnJheVRvU29ydFtpbml0aWFsTGVmdFN0YXJ0XSA9IHRlbXBvcmFyeUFycmF5W2NvcHlDb3VudGVyXTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgcnVuKCkgewogICAgCiAgfQogIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdoaWxlIChpbml0aWFsTGVmdFN0YXJ0ICE9IHJpZ2h0RW5kKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gd3JpdGUgeW91ciBjb2RlIGhlcmUK</text>
+        <text encoding="base64">ICAgIGludCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gd3JpdGUgeW91ciBjb2RlIGhlcmUK</text>
+        <text encoding="base64">ICAgIGludCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgZmluYWxpemUoKTsK</text>
       </register>
     </registers>
     <search>
