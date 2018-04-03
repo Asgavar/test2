@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/tests/OnePerFiveSecondsSingletonTest.java" timestamp="1522787392764">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsGetIndividualController.php" timestamp="1521918514535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="31" column="0" />
@@ -23,6 +29,12 @@
       </file>
       <file name="/a.dummy" timestamp="1522701469510">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerFiveSecondsSingleton.java" timestamp="1522787634742">
+        <mark key="'" line="24" column="19" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" timestamp="1522331408484">
         <mark key="'" line="32" column="0" />
@@ -148,6 +160,12 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OneForAllSingleton.java" timestamp="1522784351314">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/StdoutBillPrinter.java" timestamp="1521995047534">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -190,6 +208,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/tests/OnePerThreadSingletonTest.java" timestamp="1522786174738">
+        <mark key="[" line="21" column="75" />
+        <mark key="]" line="21" column="72" />
+        <mark key="." line="21" column="72" />
+        <mark key="^" line="21" column="72" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/OrderedCollectionMember.java" timestamp="1522244170105">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -218,6 +242,13 @@
         <mark key="]" line="16" column="59" />
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerThreadSingleton.java" timestamp="1522785869076">
+        <mark key="'" line="20" column="1" />
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Serializers/JSONProductSerializer.php" timestamp="1521920066400">
         <mark key="[" line="31" column="13" />
@@ -299,6 +330,9 @@
         <mark key="^" line="44" column="31" />
         <mark key="." line="44" column="31" />
       </file>
+      <file name="/Dummy.txt" timestamp="1522786307440">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportDataProvider.java" timestamp="1521989163600">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="2" column="17" />
@@ -341,6 +375,13 @@
         <mark key="]" line="3" column="38" />
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/tests/OneForAllSingletonTest.java" timestamp="1522785175383">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="33" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ThreadSafeBuffer.java" timestamp="1522695195303">
         <mark key="[" line="24" column="0" />
@@ -438,7 +479,7 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1522783250453">
+      <file name="/fragment.java" timestamp="1522787091589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ConstantReportDataProvider.java" timestamp="1521990845283">
@@ -526,46 +567,56 @@
       <jump line="64" column="37" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
       <jump line="16" column="51" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
       <jump line="81" column="4" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
+      <jump line="22" column="1" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerThreadSingleton.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/tests/OneForAllSingletonTest.java" />
+      <jump line="24" column="19" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerFiveSecondsSingleton.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyZWR5LmFkZChUaHJlYWQuY3VycmVudFRocmVhZCgpKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzZWNvbmRzT2ZDdXJyZW50VGltZSk7Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>assert</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>Sour</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZyZWR5LmFkZChUaHJlYWQuY3VycmVudFRocmVhZCgpKTsK</text>
+        <text encoding="base64">ICAgIE9uZVBlckZpdmVTZWNvbmRzU2luZ2xldG9uIGZpcnN0ID0gT25lUGVyRml2ZVNlY29uZHNTaW5nbGV0b24uZ2V0SW5zdGFuY2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidHV6IHByemVkIGxld3k6ICIgKyB0aGlzLmxlZnRCb3VuZGFyeSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oInR1eiBwcnplZCBzcm9ka28tcHJhd3k6ICIgKyBhcnJheU1pZGRsZSk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzZWNvbmRzT2ZDdXJyZW50VGltZSk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3JvZGVrOiAiICsgYXJyYXlNaWRkbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2wK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigibGV3YSBncmFuaWNhOiAiICsgdGhpcy5sZWZ0Qm91bmRhcnkpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJwcmF3YSBncmFuaWNhOiAiICsgdGhpcy5yaWdodEJvdW5kYXJ5KTsK</text>
+        <text encoding="base64">ICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJsZXd5IiArIGxlZnRTdGFydCk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicHJhd3kiICsgcmlnaHRTdGFydCk7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaSBkbHVnb3NjIGRvIG5pY2giICsgc3ViQXJyYXlMZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgIFRocmVhZCB3YWl0aW5nVGhyZWFkID0gbmV3IFRocmVhZCgpIHsK</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFycmF5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5ydW4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIDIsIDEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
