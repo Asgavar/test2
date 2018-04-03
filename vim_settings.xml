@@ -30,11 +30,12 @@
       <file name="/a.dummy" timestamp="1522701469510">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerFiveSecondsSingleton.java" timestamp="1522787634742">
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerFiveSecondsSingleton.java" timestamp="1522788090338">
         <mark key="'" line="24" column="19" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" timestamp="1522331408484">
         <mark key="'" line="32" column="0" />
@@ -572,11 +573,11 @@
       <jump line="24" column="19" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerFiveSecondsSingleton.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzZWNvbmRzT2ZDdXJyZW50VGltZSk7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>secondsOfCurrentTime</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>secondsOfCurrentTime</text>
       </register>
       <register name="/" type="4">
         <text>Sour</text>
