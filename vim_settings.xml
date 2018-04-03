@@ -130,6 +130,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/test/MainTest.java" timestamp="1522781301413">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/Podporucznik.java" timestamp="1522245918660">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="6" column="14" />
@@ -426,7 +432,7 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1522780452746">
+      <file name="/fragment.java" timestamp="1522781144218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ConstantReportDataProvider.java" timestamp="1521990845283">
@@ -517,10 +523,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>42</text>
+        <text>assert</text>
       </register>
       <register name="-" type="4">
-        <text>42</text>
+        <text>assert</text>
       </register>
       <register name="/" type="4">
         <text>Sour</text>
