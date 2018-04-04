@@ -87,6 +87,13 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/AirportObjectPool/src/xyz/juraszek/airportobjectpool/Airport.java" timestamp="1522845055524">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+        <mark key="^" line="17" column="47" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsDeleteController.php" timestamp="1521920233751">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="22" />
@@ -209,6 +216,12 @@
         <mark key="^" line="40" column="35" />
         <mark key="." line="40" column="35" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/AirportObjectPool/src/xyz/juraszek/airportobjectpool/Plane.java" timestamp="1522843341363">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/TaxCalculator.java" timestamp="1521993729102">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="45" />
@@ -226,6 +239,12 @@
         <mark key="]" line="21" column="72" />
         <mark key="." line="21" column="72" />
         <mark key="^" line="21" column="72" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/AirportObjectPool/src/xyz/juraszek/airportobjectpool/ThisPlaneIsNotFromHereException.java" timestamp="1522844260007">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="61" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="2" column="61" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/OrderedCollectionMember.java" timestamp="1522244170105">
         <mark key="[" line="2" column="0" />
@@ -318,6 +337,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="21" column="53" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/AirportObjectPool/src/xyz/juraszek/airportobjectpool/tests/AirportTest.java" timestamp="1522845083294">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="28" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/lsp/Main.java" timestamp="1522318948366">
         <mark key="'" line="12" column="4" />
         <mark key="[" line="11" column="53" />
@@ -348,7 +373,7 @@
         <mark key="^" line="44" column="31" />
         <mark key="." line="44" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522837896004">
+      <file name="/Dummy.txt" timestamp="1522844908185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportDataProvider.java" timestamp="1521989163600">
@@ -478,6 +503,12 @@
         <mark key="^" line="14" column="78" />
         <mark key="." line="14" column="78" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/AirportObjectPool/src/xyz/juraszek/airportobjectpool/NoPlanesAvailableException.java" timestamp="1522844264251">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="56" />
+        <mark key="^" line="2" column="56" />
+        <mark key="." line="2" column="56" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/demo.php" timestamp="1521187426147">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="34" column="20" />
@@ -527,7 +558,7 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1522837904524">
+      <file name="/fragment.java" timestamp="1522844908203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ConstantReportDataProvider.java" timestamp="1521990845283">
@@ -618,40 +649,42 @@
       <jump line="22" column="1" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerThreadSingleton.java" />
       <jump line="17" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/tests/OneForAllSingletonTest.java" />
       <jump line="24" column="19" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerFiveSecondsSingleton.java" />
+      <jump line="5" column="13" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/AirportObjectPool/src/xyz/juraszek/airportobjectpool/Airport.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/AirportObjectPool/src/xyz/juraszek/airportobjectpool/Airport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuYWlycG9ydC5nZXRQbGFuZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>TreeSet</text>
       </register>
       <register name="/" type="4">
         <text>Sour</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE9uZVBlckZpdmVTZWNvbmRzU2luZ2xldG9uIGZpcnN0ID0gT25lUGVyRml2ZVNlY29uZHNTaW5nbGV0b24uZ2V0SW5zdGFuY2UoKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuYWlycG9ydC5nZXRQbGFuZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5CZWZvcmVFYWNoOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAoKSAtPiB0aGlzLmFpcnBvcnQuZ2V0UGxhbmUoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuYWlycG9ydC5nZXRQbGFuZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzZWNvbmRzT2ZDdXJyZW50VGltZSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2wK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50bHlIYW5kbGVkUGxhbmVzLmFkZCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -661,10 +694,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
