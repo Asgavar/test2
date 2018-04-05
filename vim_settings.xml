@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1522945109840">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPostController.php" timestamp="1521919341047">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="0" column="0" />
@@ -16,6 +19,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="ide.general.xml" timestamp="1522945051244">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1520549823389">
         <mark key="[" line="0" column="0" />
@@ -98,6 +104,9 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
+      </file>
+      <file name="colors/_@user_Darcula.icls" timestamp="1522945037339">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/DiscountedProduct.php" timestamp="1521145446099">
         <mark key="[" line="13" column="0" />
