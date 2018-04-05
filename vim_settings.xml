@@ -113,8 +113,8 @@
         <mark key="^" line="12" column="38" />
         <mark key="." line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" timestamp="1522928519065">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" timestamp="1522928670319">
+        <mark key="'" line="23" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
@@ -655,6 +655,7 @@
       <jump line="95" column="31" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
       <jump line="75" column="15" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
       <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
