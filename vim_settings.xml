@@ -23,12 +23,6 @@
       <file name="ide.general.xml" timestamp="1522945051244">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/composer.json" timestamp="1522948133826">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-      </file>
       <file name="/Python Console" timestamp="1520549823389">
         <mark key="[" line="0" column="0" />
       </file>
@@ -125,11 +119,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522948498690">
+      <file name="/Dummy.txt" timestamp="1521906853374">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" timestamp="1520548185373">
         <mark key="'" line="44" column="0" />
@@ -143,17 +134,6 @@
         <mark key="]" line="44" column="31" />
         <mark key="^" line="44" column="31" />
         <mark key="." line="44" column="31" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/StandardProduct.php" timestamp="1522948474827">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/Cart.php" timestamp="1522948659019">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/composer.json" timestamp="1521186386598">
         <mark key="[" line="18" column="1" />
@@ -210,12 +190,6 @@
         <mark key="]" line="22" column="62" />
         <mark key="." line="22" column="62" />
         <mark key="^" line="22" column="62" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/Product.php" timestamp="1522948473658">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/IProduct.php" timestamp="1521146112844">
         <mark key="[" line="2" column="0" />
@@ -289,40 +263,40 @@
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPmdldENvbnRlbnQoKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY291bnQoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bmV3UHJpY2UgPSAkbmV3UHJpY2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CartRules</text>
+        <text>$</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBSRVNUZnVsUHJvZHVjdHNcQ29udHJvbGxlcnM7Cgp1c2UgTW9uZXlcTW9uZXk7Cgp1c2UgUkVTVGZ1bFByb2R1Y3RzXERhdGFTcGVjaWZpY2F0aW9uc1xQcm9kdWN0SW5kaXZpZHVhbDsKdXNlIFJFU1RmdWxQcm9kdWN0c1xTZXJpYWxpemVyc1xQcm9kdWN0U2VyaWFsaXplckludGVyZmFjZTsKdXNlIFJFU1RmdWxQcm9kdWN0c1xTdG9yYWdlTWFuYWdlcnNcUHJvZHVjdFN0b3JhZ2VNYW5hZ2VySW50ZXJmYWNlOwoKCi8qKgogICBUd29yenkgcHJvZHVrdCB6IGxvc293eW1pIGRhbnltaS4KICovCmNsYXNzIFByb2R1Y3RzUG9zdENvbnRyb2xsZXIKewogICAgcHJpdmF0ZSAkc2VyaWFsaXplcjsKICAgIHByaXZhdGUgJHN0b3JhZ2VNYW5hZ2VyOwogICAgcHJpdmF0ZSAkbmV3TmFtZTsKCgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KFByb2R1Y3RTZXJpYWxpemVySW50ZXJmYWNlICRzZXJpYWxpemVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2R1Y3RTdG9yYWdlTWFuYWdlckludGVyZmFjZSAkc3RvcmFnZU1hbmFnZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nICRuZXdOYW1lKQogICAgewogICAgICAgICR0aGlzLT5zZXJpYWxpemVyID0gJHNlcmlhbGl6ZXI7CiAgICAgICAgJHRoaXMtPnN0b3JhZ2VNYW5hZ2VyID0gJHN0b3JhZ2VNYW5hZ2VyOwogICAgICAgICR0aGlzLT5uZXdOYW1lID0gJG5ld05hbWU7CiAgICB9CgoKICAgIHB1YmxpYyBmdW5jdGlvbiBfX2ludm9rZSgpCiAgICB7CiAgICAgICAgJG5ld1Byb2R1Y3QgPSBuZXcgUHJvZHVjdEluZGl2aWR1YWwoCiAgICAgICAgICAgIC00MiwgIC8vIGVoaAogICAgICAgICAgICAkdGhpcy0+bmV3TmFtZSwKICAgICAgICAgICAgTW9uZXk6OlBMTihyYW5kKCkpCiAgICAgICAgKTsKICAgICAgICAkdGhpcy0+c3RvcmFnZU1hbmFnZXItPndyaXRlUHJvZHVjdCgkbmV3UHJvZHVjdCk7CiAgICAgICAgcmV0dXJuICRuZXdQcm9kdWN0LT5nZXRJRCgpIC4gIiB6YXBpc2FueSEiOwogICAgfQp9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY291bnQoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bmV3UHJpY2UgPSAkbmV3UHJpY2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgJG5ld1ByaWNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBzaW5jZSA1LjEuMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPmdldENvbnRlbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIFRoZSByZXR1cm4gdmFsdWUgaXMgY2FzdCB0byBhbiBpbnRlZ2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICB1bmxpbmsoJGZpbGVuYW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIDxwPgo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZmlsZXN5c3RlbS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnNlcmlhbGl6ZXItPnNlcmlhbGl6ZWRJbmRpdmlkdWFsKAogICAgICAgICAgICAkdGhpcy0+c3RvcmFnZU1hbmFnZXItPmxvYWRQcm9kdWN0KCR0aGlzLT5wcm9kdWN0SWQpCiAgICAgICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gaW50IFRoZSBjdXN0b20gY291bnQgYXMgYW4gaW50ZWdlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLCAgLy8gZWhoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBsaW5rIGh0dHA6Ly9waHAubmV0L21hbnVhbC9lbi9jb3VudGFibGUuY291bnQucGhwCg==</text>
+        <text encoding="base64">LyoqCiAgIFR3b3J6eSBwcm9kdWt0IHogbG9zb3d5bWkgZGFueW1pLgogKi8K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIENvdW50IGVsZW1lbnRzIG9mIGFuIG9iamVjdAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBSRVNUZnVsUHJvZHVjdHNcQ29udHJvbGxlcnM7</text>
       </register>
     </registers>
     <search>
@@ -362,9 +336,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
