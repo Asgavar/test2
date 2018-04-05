@@ -9,6 +9,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
