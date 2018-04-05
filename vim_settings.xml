@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1522945109840">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPostController.php" timestamp="1521919341047">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="0" column="0" />
@@ -17,11 +20,30 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="ide.general.xml" timestamp="1522945051244">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/composer.json" timestamp="1522948133826">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="/Python Console" timestamp="1520549823389">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsGetIndividualController.php" timestamp="1521918514535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/ContainsProductWithNameLikePromoRule.php" timestamp="1522953642215">
+        <mark key="'" line="6" column="62" />
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsGetCollectionController.php" timestamp="1521912851273">
         <mark key="[" line="23" column="0" />
@@ -29,17 +51,57 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/MoneyFormatterInterface.php" timestamp="1520454563242">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/ExtraItemPromo.php" timestamp="1522954754648">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista03/Singleton/Class1.cs" timestamp="1520793827917">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/ProductStorageManagerInterface.php" timestamp="1521919071319">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="13" column="75" />
         <mark key="^" line="13" column="75" />
         <mark key="." line="13" column="75" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cs" timestamp="1520793959362">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Serializers/JSONProductSerializer.php" timestamp="1521920066400">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/DiscountedProduct.php" timestamp="1521187241411">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/vendor/moneyphp/money/src/Money.php" timestamp="1522952331462">
         <mark key="'" line="562" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/IProductCollection.php" timestamp="1521143356209">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Bundle.php" timestamp="1521145921708">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="47" column="53" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsDeleteController.php" timestamp="1521920233751">
         <mark key="[" line="12" column="13" />
@@ -49,6 +111,34 @@
       </file>
       <file name="colors/_@user_Darcula.icls" timestamp="1522945037339">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/DiscountedProduct.php" timestamp="1521145446099">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="21" column="53" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cs" timestamp="1520793959362">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1522953681043">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" timestamp="1520548185373">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/Bundle.php" timestamp="1521186949434">
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="31" />
+        <mark key="^" line="44" column="31" />
+        <mark key="." line="44" column="31" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/StandardProduct.php" timestamp="1522952619495">
         <mark key="[" line="17" column="33" />
@@ -75,137 +165,6 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/DataSpecifications/ProductIndividual.php" timestamp="1521911165279">
-        <mark key="'" line="30" column="34" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/CombinedPromoRule.php" timestamp="1522954776361">
-        <mark key="'" line="9" column="16" />
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="33" column="19" />
-        <mark key="^" line="33" column="19" />
-        <mark key="." line="33" column="19" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" timestamp="1520583728293">
-        <mark key="[" line="22" column="62" />
-        <mark key="]" line="22" column="62" />
-        <mark key="." line="22" column="62" />
-        <mark key="^" line="22" column="62" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/cart.php" timestamp="1522954756761">
-        <mark key="'" line="40" column="37" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1521919546437">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista03/Singleton/TimeNTon.cs" timestamp="1520793892169">
-        <mark key="[" line="39" column="53" />
-        <mark key="]" line="40" column="35" />
-        <mark key="^" line="40" column="35" />
-        <mark key="." line="40" column="35" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/app.php" timestamp="1522943606851">
-        <mark key="'" line="50" column="75" />
-        <mark key="[" line="56" column="39" />
-        <mark key="]" line="56" column="40" />
-        <mark key="^" line="56" column="40" />
-        <mark key="." line="56" column="40" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1522945109840">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="ide.general.xml" timestamp="1522945051244">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/composer.json" timestamp="1522948133826">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-      </file>
-      <file name="/Python Console" timestamp="1520549823389">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/ContainsProductWithNameLikePromoRule.php" timestamp="1522953642215">
-        <mark key="'" line="6" column="62" />
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="27" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/MoneyFormatterInterface.php" timestamp="1520454563242">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/ExtraItemPromo.php" timestamp="1522954754648">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista03/Singleton/Class1.cs" timestamp="1520793827917">
-        <mark key="[" line="29" column="47" />
-        <mark key="]" line="29" column="47" />
-        <mark key="." line="29" column="47" />
-        <mark key="^" line="29" column="47" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Serializers/JSONProductSerializer.php" timestamp="1521920066400">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-        <mark key="^" line="32" column="28" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/DiscountedProduct.php" timestamp="1521187241411">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/IProductCollection.php" timestamp="1521143356209">
-        <mark key="[" line="5" column="59" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Bundle.php" timestamp="1521145921708">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="47" column="53" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/DiscountedProduct.php" timestamp="1521145446099">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="21" column="53" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1522953681043">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" timestamp="1520548185373">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/Bundle.php" timestamp="1521186949434">
-        <mark key="[" line="44" column="31" />
-        <mark key="]" line="44" column="31" />
-        <mark key="^" line="44" column="31" />
-        <mark key="." line="44" column="31" />
-      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/ThousandSeparatedMoneyFormatter.php" timestamp="1520582664580">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="27" column="40" />
@@ -218,6 +177,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="6" column="48" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/DataSpecifications/ProductIndividual.php" timestamp="1521911165279">
+        <mark key="'" line="30" column="34" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" timestamp="1522943516747">
         <mark key="'" line="0" column="0" />
@@ -251,11 +216,46 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/CombinedPromoRule.php" timestamp="1522954776361">
+        <mark key="'" line="9" column="16" />
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="33" column="19" />
+        <mark key="^" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Money.php" timestamp="1520583728293">
+        <mark key="[" line="22" column="62" />
+        <mark key="]" line="22" column="62" />
+        <mark key="." line="22" column="62" />
+        <mark key="^" line="22" column="62" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/cart.php" timestamp="1522954756761">
+        <mark key="'" line="40" column="37" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/Product.php" timestamp="1522948473658">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1521919546437">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista03/Singleton/TimeNTon.cs" timestamp="1520793892169">
+        <mark key="[" line="39" column="53" />
+        <mark key="]" line="40" column="35" />
+        <mark key="^" line="40" column="35" />
+        <mark key="." line="40" column="35" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/app.php" timestamp="1522943606851">
+        <mark key="'" line="50" column="75" />
+        <mark key="[" line="56" column="39" />
+        <mark key="]" line="56" column="40" />
+        <mark key="^" line="56" column="40" />
+        <mark key="." line="56" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -316,11 +316,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPmdldENvbnRlbnQoKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIENhCg==</text>
+      <register name="&quot;" type="4">
+        <text>(&quot;PHP File Header.php&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>też</text>
+        <text>(&quot;PHP File Header.php&quot;)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWNobyAiUHJvbW9jamEgMiwgbmEgbmnEhSB0ZcW8IHBvd2luaWVuIHNpxJkgxYJhcGHEhzogIiAuICRwcm9tbzItPmlzRWxpZ2libGUoJGNhcnQpIC4gUEhQX0VPTDsK</text>
