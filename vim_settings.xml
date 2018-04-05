@@ -23,6 +23,12 @@
       <file name="ide.general.xml" timestamp="1522945051244">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/composer.json" timestamp="1522948133826">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="/Python Console" timestamp="1520549823389">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,6 +50,7 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/ExtraItemPromo.php" timestamp="1522951038578" />
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista03/Singleton/Class1.cs" timestamp="1520793827917">
         <mark key="[" line="29" column="47" />
         <mark key="]" line="29" column="47" />
@@ -121,6 +128,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1521906853374">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/MoneyValueObject/Currency.php" timestamp="1520548185373">
         <mark key="'" line="44" column="0" />
@@ -134,6 +144,17 @@
         <mark key="]" line="44" column="31" />
         <mark key="^" line="44" column="31" />
         <mark key="." line="44" column="31" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/StandardProduct.php" timestamp="1522948474827">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/Cart.php" timestamp="1522948659019">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/composer.json" timestamp="1521186386598">
         <mark key="[" line="18" column="1" />
@@ -190,6 +211,12 @@
         <mark key="]" line="22" column="62" />
         <mark key="." line="22" column="62" />
         <mark key="^" line="22" column="62" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/CartRules/src/Product.php" timestamp="1522948473658">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/IProduct.php" timestamp="1521146112844">
         <mark key="[" line="2" column="0" />
@@ -336,6 +363,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
