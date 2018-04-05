@@ -113,10 +113,11 @@
         <mark key="^" line="12" column="38" />
         <mark key="." line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" timestamp="1522928670319">
-        <mark key="'" line="23" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" timestamp="1522929138249">
+        <mark key="'" line="81" column="25" />
+        <mark key="[" line="53" column="99" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/SubstractExpression.java" timestamp="1522232324710">
         <mark key="[" line="14" column="23" />
@@ -399,11 +400,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/Main.java" timestamp="1522927747422">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/Main.java" timestamp="1522929238674">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="5" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Main.java" timestamp="1521992010755">
         <mark key="[" line="11" column="51" />
@@ -656,13 +657,15 @@
       <jump line="75" column="15" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
       <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
       <jump line="23" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
+      <jump line="85" column="6" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
+      <jump line="78" column="25" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIDksIDQyLCAzMywgMTgsIDI3LCAzMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>42,</text>
       </register>
       <register name="/" type="4">
         <text>Sour</text>
@@ -671,25 +674,25 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcodGVtcG9yYXJ5QXJyYXkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIDksIDQyLCAzMywgMTgsIDI3LCAzMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA0LCAzLCAyLCAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyBDYWxsYQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7CmltcG9ydCBqYXZhLnV0aWwuU2Nhbm5lcjsK</text>
+        <text encoding="base64">ICAgIG5ldyBDYWxsYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyBTY2FubmVyKFN5c3RlbS5pbi5yZWFkKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -699,10 +702,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuZXcgU2Nhbm5lcigpLgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7CmltcG9ydCBqYXZhLnV0aWwuU2Nhbm5lcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5hcnJheWNvcHkoLCAsICwgLCApOwo=</text>
+        <text encoding="base64">ICAgIG5ldyBTY2FubmVyKFN5c3RlbS5pbi5yZWFkKCkpCg==</text>
       </register>
     </registers>
     <search>
