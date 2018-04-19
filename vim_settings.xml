@@ -9,6 +9,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/BinaryAddition.php" timestamp="1523564392341">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+        <mark key="." line="16" column="42" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/models/Model.java" timestamp="1523540386073">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -24,6 +30,13 @@
         <mark key="]" line="17" column="25" />
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/BinaryOperators/BinaryMultiplication.php" timestamp="1523566945015">
+        <mark key="'" line="8" column="47" />
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="29" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/ProductStorageManagerInterface.php" timestamp="1521919071319">
         <mark key="[" line="13" column="49" />
@@ -75,6 +88,19 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/rpn-calculator.php" timestamp="1523570620517">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/Tokenizers/SpaceSeparatedTokenizer.php" timestamp="1523566107503">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="30" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/models/Periodical.java" timestamp="1523540427094">
         <mark key="[" line="2" column="42" />
@@ -130,10 +156,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw05/CaesarStream/src/xyz/juraszek/caesarstream/CaesarInputStreamTest.java" timestamp="1523542287027">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/RpnFunctor.php" timestamp="1523566877896">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="8" column="59" />
+        <mark key="^" line="8" column="59" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Rectangular.java" timestamp="1521991705667">
         <mark key="[" line="2" column="30" />
@@ -165,6 +192,12 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Interfaces/Klaska.php" timestamp="1524164300702">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerThreadSingleton.java" timestamp="1522785869076">
         <mark key="'" line="20" column="1" />
         <mark key="[" line="12" column="2" />
@@ -190,12 +223,21 @@
         <mark key="." line="19" column="4" />
         <mark key="^" line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Interfaces/composer.json" timestamp="1524164310615">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/CashRegister.java" timestamp="1522328634223">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="35" column="55" />
         <mark key="]" line="36" column="41" />
         <mark key="." line="36" column="41" />
         <mark key="^" line="36" column="41" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/tests/BinaryAdditionTest.php" timestamp="1523568861346">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/lsp/Main.java" timestamp="1522318948366">
         <mark key="'" line="12" column="4" />
@@ -215,11 +257,6 @@
         <mark key="]" line="10" column="36" />
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
-      </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/models/PhysicalReadableThingModel.java" timestamp="1523537598122">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/Bundle.php" timestamp="1521186949434">
         <mark key="[" line="44" column="31" />
@@ -258,6 +295,12 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/DataStructures/Stack.php" timestamp="1523568924923">
+        <mark key="'" line="18" column="24" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ExtensibleFactory/src/xyz/juraszek/extensiblefactory/tests/ShapeFactoryTest.java" timestamp="1522838015028">
         <mark key="[" line="38" column="3" />
         <mark key="]" line="38" column="9" />
@@ -270,6 +313,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="29" column="15" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/BinaryOperators/BinaryDivision.php" timestamp="1523566927671">
+        <mark key="'" line="8" column="41" />
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="29" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/AscendingOrderedCollection.java" timestamp="1522245283018">
         <mark key="[" line="7" column="30" />
@@ -295,10 +345,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw05/CaesarStream/napisy.in" timestamp="1523541425149">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/tests/RPNCalculatorTest.php" timestamp="1523570344564">
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="24" />
+        <mark key="^" line="41" column="24" />
+        <mark key="." line="41" column="24" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/Main.java" timestamp="1522320369023">
         <mark key="[" line="16" column="38" />
@@ -318,6 +369,9 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/composer.lock" timestamp="1523602384192">
+        <mark key="'" line="1471" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsGetIndividualController.php" timestamp="1521918514535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="31" column="0" />
@@ -336,6 +390,13 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/BinaryOperators/BinaryAddition.php" timestamp="1523566903952">
+        <mark key="'" line="8" column="41" />
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" timestamp="1522331408484">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="8" column="8" />
@@ -348,6 +409,12 @@
         <mark key="]" line="21" column="80" />
         <mark key="^" line="21" column="80" />
         <mark key="." line="21" column="80" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/Tokenizers/Tokenizer.php" timestamp="1523565939846">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/MultiplyExpresion.java" timestamp="1522240555189">
         <mark key="[" line="2" column="34" />
@@ -392,7 +459,25 @@
         <mark key="." line="8" column="66" />
         <mark key="^" line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw05/CaesarStream/src/xyz/juraszek/caesarstream/Main.java" timestamp="1523543029845" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/BinaryMultiplication.php" timestamp="1523564497277">
+        <mark key="'" line="6" column="46" />
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/composer.json" timestamp="1524164256463">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/wallet.php" timestamp="1524164209821">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/editors/PhysicalReadableThingEditor.java" timestamp="1523537583923">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="4" column="22" />
@@ -424,6 +509,20 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/BinaryOperators/BinarySubstraction.php" timestamp="1523567011784">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/RPNCalculator.php" timestamp="1523602127392">
+        <mark key="'" line="65" column="30" />
+        <mark key="[" line="65" column="35" />
+        <mark key="]" line="65" column="30" />
+        <mark key="." line="65" column="30" />
+        <mark key="^" line="65" column="30" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/tests/OnePerThreadSingletonTest.java" timestamp="1522786174738">
         <mark key="[" line="21" column="75" />
         <mark key="]" line="21" column="72" />
@@ -448,6 +547,12 @@
         <mark key="^" line="21" column="74" />
         <mark key="." line="21" column="74" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/tests/StackTest.php" timestamp="1523603682647">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/PlusExpression.java" timestamp="1522232088221">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="16" column="59" />
@@ -460,6 +565,12 @@
         <mark key="." line="32" column="28" />
         <mark key="^" line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Klaska.php" timestamp="1524162935250">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/VariableExpression.java" timestamp="1522231930908">
         <mark key="[" line="5" column="54" />
         <mark key="]" line="11" column="18" />
@@ -471,6 +582,13 @@
         <mark key="]" line="16" column="30" />
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Exceptions/EmptyStackException.php" timestamp="1523565134917">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/Item.java" timestamp="1521995410455">
         <mark key="[" line="12" column="21" />
@@ -490,8 +608,14 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522844908185">
+      <file name="/Dummy.txt" timestamp="1524162899539">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/BinaryDivision.php" timestamp="1523564579900">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/editors/BookEditor.java" timestamp="1523539942021">
         <mark key="'" line="24" column="28" />
@@ -504,6 +628,12 @@
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Interfaces/EventSubscriber.php" timestamp="1524163539733">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ExtensibleFactory/src/xyz/juraszek/extensiblefactory/Shape.java" timestamp="1522836094747">
         <mark key="[" line="3" column="0" />
@@ -586,6 +716,18 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Tokenizers/Tokenizer.php" timestamp="1523566344663">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/tests/SpaceSeparatedTokenizerTest.php" timestamp="1523569535003">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ExtensibleFactory/src/xyz/juraszek/extensiblefactory/Rectangle.java" timestamp="1522837112984">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="78" />
@@ -615,6 +757,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/BinarySubstraction.php" timestamp="1523564434052">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+        <mark key="." line="16" column="42" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/SubstractExpression.java" timestamp="1522241867110">
         <mark key="[" line="21" column="72" />
@@ -742,11 +890,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/serializers/BookSerializer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>third</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>Sour</text>
@@ -755,25 +903,25 @@
         <text encoding="base64">ICAgIGludCB0aGlyZCA9IGNpczIucmVhZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAgIi4uL3ZlbmRvci9hdXRvbG9hZC5waHAiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBmaXJzdCAicGllcndzenkiCg==</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGplZGVuID09IGR3YQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBqZWRlbiA9ICJuYXBpcyI7CiAgICBTdHJpbmcgZHdhID0gIm5hcGlzIjsKICAgIFN0cmluZyB0cnp5ID0gbmV3IFN0cmluZygibmFwaXMiKTsK</text>
+        <text encoding="base64">ICAgICJhdXRob3JzIjogWwogICAgICAgIHsKICAgICAgICAgICAgIm5hbWUiOiAiQXJ0dXIgSnVyYXN6ZWsiLAogICAgICAgICAgICAiZW1haWwiOiAiYXJ0dXJAanVyYXN6ZWsueHl6Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW5vcHJzdHV3eHl6Cg==</text>
+        <text encoding="base64">JGV2ZW50ID0gbmV3IEV2ZW50KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWZnaGlqa2wK</text>
+        <text encoding="base64">dXNlIFdhbGxldFxJbnRlcmZhY2VzXEV2ZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFdhbGxldFxJbnRlcmZhY2VzXEV2ZW50Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -783,10 +931,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHh5ei5qdXJhc3play5zd2luZ29iamVjdGVkaXRvci5tb2RlbHMuTW9kZWw7Cg==</text>
+        <text encoding="base64">dXNlIFdhbGxldFxJbnRlcmZhY2VzXEV2ZW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uc291cmNlLnRyZWUuTGFtYmRhRXhwcmVzc2lvblRyZWUuQm9keUtpbmQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
       </register>
     </registers>
     <search>
@@ -844,6 +992,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
