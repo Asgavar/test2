@@ -126,6 +126,13 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Implementations/Wallet.php" timestamp="1524166045925">
+        <mark key="'" line="15" column="27" />
+        <mark key="[" line="49" column="19" />
+        <mark key="]" line="49" column="43" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="49" column="43" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/Podporucznik.java" timestamp="1522245918660">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="6" column="14" />
@@ -192,11 +199,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Interfaces/Klaska.php" timestamp="1524164300702">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Interfaces/Klaska.php" timestamp="1524164467775">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerThreadSingleton.java" timestamp="1522785869076">
         <mark key="'" line="20" column="1" />
@@ -204,6 +211,12 @@
         <mark key="]" line="12" column="15" />
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Exceptions/WalletAlreadyUnactiveException.php" timestamp="1524165884978">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/src/Product/DiscountedProduct.php" timestamp="1521187241411">
         <mark key="[" line="19" column="32" />
@@ -223,8 +236,11 @@
         <mark key="." line="19" column="4" />
         <mark key="^" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Interfaces/composer.json" timestamp="1524164310615">
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Interfaces/composer.json" timestamp="1524164340505">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/CashRegister.java" timestamp="1522328634223">
         <mark key="'" line="25" column="0" />
@@ -453,6 +469,9 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Exceptions/InsufficientFundsException.php" timestamp="1524165500273">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/Main.java" timestamp="1522696789340">
         <mark key="[" line="8" column="77" />
         <mark key="]" line="8" column="66" />
@@ -472,11 +491,10 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/wallet.php" timestamp="1524164209821">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/wallet.php" timestamp="1524165190456">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/editors/PhysicalReadableThingEditor.java" timestamp="1523537583923">
         <mark key="'" line="13" column="0" />
@@ -484,6 +502,13 @@
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Exceptions/WalletNotActiveException.php" timestamp="1524165365644">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+        <mark key="." line="6" column="48" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/Chorąży.java" timestamp="1522245859402">
         <mark key="[" line="2" column="22" />
@@ -608,7 +633,7 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524162899539">
+      <file name="/Dummy.txt" timestamp="1524165604620">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/BinaryDivision.php" timestamp="1523564579900">
@@ -629,11 +654,11 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Interfaces/EventSubscriber.php" timestamp="1524163539733">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Interfaces/EventSubscriber.php" timestamp="1524165562582">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ExtensibleFactory/src/xyz/juraszek/extensiblefactory/Shape.java" timestamp="1522836094747">
         <mark key="[" line="3" column="0" />
@@ -697,6 +722,11 @@
         <mark key="]" line="10" column="30" />
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Exceptions/WalletAlreadyNotActiveException.php" timestamp="1524165895760">
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="36" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ExtensibleFactory/src/xyz/juraszek/extensiblefactory/RectangleShapeFactoryWorker.java" timestamp="1522837300359">
         <mark key="[" line="2" column="0" />
@@ -788,10 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
-      <jump line="28" column="29" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" />
-      <jump line="95" column="14" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
       <jump line="42" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" />
       <jump line="44" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" />
@@ -888,13 +914,17 @@
       <jump line="10" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/serializers/BookSerializer.java" />
       <jump line="8" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/serializers/BookSerializer.java" />
       <jump line="1" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/serializers/BookSerializer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Exceptions/WalletNotActiveException.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Exceptions/InsufficientFundsException.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Implementations/Wallet.php" />
+      <jump line="15" column="27" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Implementations/Wallet.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text encoding="base64">JHRoaXMtPg==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">JHRoaXMtPg==</text>
       </register>
       <register name="/" type="4">
         <text>Sour</text>
@@ -903,25 +933,25 @@
         <text encoding="base64">ICAgIGludCB0aGlyZCA9IGNpczIucmVhZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZSAgIi4uL3ZlbmRvci9hdXRvbG9hZC5waHAiOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbm90aWZ5KCkgbWV0aG9kLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCiAgICB7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJhdXRob3JzIjogWwogICAgICAgIHsKICAgICAgICAgICAgIm5hbWUiOiAiQXJ0dXIgSnVyYXN6ZWsiLAogICAgICAgICAgICAiZW1haWwiOiAiYXJ0dXJAanVyYXN6ZWsueHl6Igo=</text>
+        <text encoding="base64">dXNlIFdhbGxldFxJbnRlcmZhY2VzXEV2ZW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGV2ZW50ID0gbmV3IEV2ZW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">dXNlIFdhbGxldFxJbnRlcmZhY2VzXEV2ZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFdhbGxldFxJbnRlcmZhY2VzXEV2ZW50Owo=</text>
+        <text encoding="base64">CiR1ZmYgPSBuZXcgRXZlbnQoKTsKJHVmZi0+ZnVua2NqYSgxKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -931,10 +961,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFdhbGxldFxJbnRlcmZhY2VzXEV2ZW50Owo=</text>
+        <text encoding="base64">JGsgPSBuZXcgRXZlbnQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
