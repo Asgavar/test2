@@ -9,10 +9,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/models/Model.java" timestamp="1523537606619">
-        <mark key="]" line="2" column="21" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/models/Model.java" timestamp="1523540386073">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="21" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1522701469510">
         <mark key="[" line="0" column="0" />
@@ -75,11 +76,11 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/models/Periodical.java" timestamp="1523540070940">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/models/Periodical.java" timestamp="1523540427094">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="4" column="65" />
+        <mark key="^" line="4" column="65" />
+        <mark key="." line="4" column="65" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Products/composer.json" timestamp="1521186386598">
         <mark key="[" line="18" column="1" />
@@ -128,6 +129,11 @@
         <mark key="]" line="12" column="1" />
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw05/CaesarStream/src/xyz/juraszek/caesarstream/CaesarInputStreamTest.java" timestamp="1523542287027">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/LSP-Example/src/xyz/juraszek/srp/Rectangular.java" timestamp="1521991705667">
         <mark key="[" line="2" column="30" />
@@ -289,6 +295,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw05/CaesarStream/napisy.in" timestamp="1523541425149">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/OrderedCollection/src/xyz/juraszek/orderedcollection/Main.java" timestamp="1522320369023">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="9" column="0" />
@@ -381,6 +392,7 @@
         <mark key="." line="8" column="66" />
         <mark key="^" line="8" column="66" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw05/CaesarStream/src/xyz/juraszek/caesarstream/Main.java" timestamp="1523543029845" />
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/editors/PhysicalReadableThingEditor.java" timestamp="1523537583923">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="4" column="22" />
@@ -617,7 +629,7 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1523532794344">
+      <file name="/fragment.java" timestamp="1523541259460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/PlusExpression.java" timestamp="1522240528525">
@@ -731,37 +743,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHh5ei5qdXJhc3play5zd2luZ29iamVjdGVkaXRvci5tb2RlbHMuTW9kZWw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Model</text>
+        <text>third</text>
       </register>
       <register name="/" type="4">
         <text>Sour</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LkNvbnRhaW5lcjsK</text>
+        <text encoding="base64">ICAgIGludCB0aGlyZCA9IGNpczIucmVhZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHh5ei5qdXJhc3play5zd2luZ29iamVjdGVkaXRvci5tb2RlbHMuTW9kZWw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uc291cmNlLnRyZWUuTGFtYmRhRXhwcmVzc2lvblRyZWUuQm9keUtpbmQ7Cg==</text>
+        <text encoding="base64">ICAgIGludCBmaXJzdCAicGllcndzenkiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGplZGVuID09IGR3YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBqZWRlbiA9ICJuYXBpcyI7CiAgICBTdHJpbmcgZHdhID0gIm5hcGlzIjsKICAgIFN0cmluZyB0cnp5ID0gbmV3IFN0cmluZygibmFwaXMiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW5vcHJzdHV3eHl6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWZnaGlqa2wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgU3RyaW5nIGZpbGVOYW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -771,10 +783,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHh5ei5qdXJhc3play5zd2luZ29iamVjdGVkaXRvci5tb2RlbHMuTW9kZWw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uc291cmNlLnRyZWUuTGFtYmRhRXhwcmVzc2lvblRyZWUuQm9keUtpbmQ7Cg==</text>
       </register>
     </registers>
     <search>
