@@ -392,7 +392,6 @@
         <mark key="." line="8" column="66" />
         <mark key="^" line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw05/CaesarStream/src/xyz/juraszek/caesarstream/Main.java" timestamp="1523543029845" />
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/editors/PhysicalReadableThingEditor.java" timestamp="1523537583923">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="4" column="22" />
@@ -493,8 +492,8 @@
       <file name="/Dummy.txt" timestamp="1522844908185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/editors/BookEditor.java" timestamp="1523539942021">
-        <mark key="'" line="24" column="28" />
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/editors/BookEditor.java" timestamp="1526481705362">
+        <mark key="'" line="69" column="0" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -640,8 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
-      <jump line="28" column="29" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" />
       <jump line="95" column="14" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
       <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/StorageManagers/FSProductStorageManager.php" />
       <jump line="42" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/RESTfulProducts/src/Controllers/ProductsPutController.php" />
@@ -740,6 +737,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/serializers/BookSerializer.java" />
       <jump line="8" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/serializers/BookSerializer.java" />
       <jump line="1" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/serializers/BookSerializer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/editors/BookEditor.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista07/SwingObjectEditor/src/xyz/juraszek/swingobjecteditor/editors/BookEditor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
