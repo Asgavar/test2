@@ -278,6 +278,13 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/BookLent.php" timestamp="1526578741842">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="6" column="48" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/CashRegister.java" timestamp="1522328634223">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="35" column="55" />
@@ -297,6 +304,13 @@
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/ReturnTimeExceeded.php" timestamp="1526579679405">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/Main.java" timestamp="1522241676840">
         <mark key="[" line="34" column="48" />
@@ -354,6 +368,13 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/PenaltyFeeCalculated.php" timestamp="1526579662164">
+        <mark key="'" line="4" column="25" />
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ExtensibleFactory/src/xyz/juraszek/extensiblefactory/tests/ShapeFactoryTest.java" timestamp="1522838015028">
         <mark key="[" line="38" column="3" />
         <mark key="]" line="38" column="9" />
@@ -391,6 +412,12 @@
         <mark key="]" line="2" column="56" />
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="56" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/EventHandlers/BookLentEventHandler.php" timestamp="1526579900808">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="12" column="60" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/venv/pyvenv.cfg" timestamp="1520549745596">
         <mark key="[" line="2" column="0" />
@@ -472,6 +499,9 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/vendor/prooph/common/src/Messaging/DomainMessage.php" timestamp="1526578527540">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ExtensibleFactory/src/xyz/juraszek/extensiblefactory/Square.java" timestamp="1522836974713">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="12" column="38" />
@@ -490,6 +520,13 @@
         <mark key="]" line="93" column="75" />
         <mark key="." line="93" column="75" />
         <mark key="^" line="93" column="75" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/BookReturned.php" timestamp="1526579643320">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista04/lista05/src/xyz/juraszek/arithexpressions/SubstractExpression.java" timestamp="1522232324710">
         <mark key="[" line="14" column="23" />
@@ -515,6 +552,13 @@
         <mark key="]" line="6" column="50" />
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/PenaltyFeePaid.php" timestamp="1526579672343">
+        <mark key="'" line="4" column="19" />
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/Main.java" timestamp="1522696789340">
         <mark key="[" line="8" column="77" />
@@ -585,6 +629,12 @@
         <mark key="]" line="23" column="29" />
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
+      </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/EventHandlers/CreateNewBookFile.php" timestamp="1526579912857">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/RPNCalculator.php" timestamp="1523602127392">
         <mark key="'" line="65" column="30" />
@@ -724,6 +774,13 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/library.php" timestamp="1526579930669">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/tests/OneForAllSingletonTest.java" timestamp="1522785175383">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="19" column="33" />
@@ -798,6 +855,13 @@
         <mark key="^" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
+      <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/LendProcessSuccesfullyFinished.php" timestamp="1526579653442">
+        <mark key="'" line="6" column="27" />
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ExtensibleFactory/src/xyz/juraszek/extensiblefactory/Rectangle.java" timestamp="1522837112984">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="78" />
@@ -858,18 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/CashRegister.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/CashRegister.java" />
-      <jump line="25" column="45" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/Main.java" />
-      <jump line="3" column="2" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
-      <jump line="2" column="1" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
-      <jump line="13" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/OldReportPrinter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/OCP-Example/src/xyz/juraszek/ocp/SimpleVat23TaxCalculator.java" />
-      <jump line="6" column="37" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw03/SRP-Example/src/xyz/juraszek/srp/ReportComposer.java" />
-      <jump line="21" column="8" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleProducer.java" />
-      <jump line="20" column="49" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleProducer.java" />
-      <jump line="32" column="5" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleConsumer.java" />
       <jump line="25" column="7" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleConsumer.java" />
       <jump line="25" column="20" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleProducer.java" />
       <jump line="20" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleConsumer.java" />
@@ -958,40 +1010,52 @@
       <jump line="72" column="37" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Implementations/WalletState.php" />
       <jump line="54" column="54" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Implementations/Wallet.php" />
       <jump line="56" column="12" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Implementations/Wallet.php" />
+      <jump line="39" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/vendor/prooph/common/src/Messaging/DomainMessage.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/vendor/prooph/common/src/Messaging/DomainMessage.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/vendor/prooph/common/src/Messaging/DomainMessage.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/LendProcessSuccesfullyFinished.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/ReturnTimeExceeded.php" />
+      <jump line="7" column="22" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/BookLent.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/library.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/BookReturned.php" />
+      <jump line="6" column="27" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/LendProcessSuccesfullyFinished.php" />
+      <jump line="4" column="25" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/PenaltyFeeCalculated.php" />
+      <jump line="4" column="19" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/PenaltyFeePaid.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/ReturnTimeExceeded.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWdncmVnYXRvci0+cHVibGlzaCgkYWN0aXZhdGVFdmVudCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>array(new CreateNewBookFile(), &quot;handle&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>array(new CreateNewBookFile(), &quot;handle&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>SetE</text>
+        <text>ex</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGludCB0aGlyZCA9IGNpczIucmVhZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWdncmVnYXRvci0+cHVibGlzaCgkYWN0aXZhdGVFdmVudCk7Cg==</text>
+        <text encoding="base64">ZWNobyAiR09XTk8iIC4gUEhQX0VPTDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWdncmVnYXRvci0+cHVibGlzaCgkZGVhY3RpdmF0ZUV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBBCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWdncmVnYXRvci0+cHVibGlzaCgkd2l0aGRyYXdFdmVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWdncmVnYXRvci0+cHVibGlzaCgkZGVwb3NpdEV2ZW50KTsK</text>
+        <text encoding="base64">CnVzZSBQcm9vcGhcQ29tbW9uXE1lc3NhZ2luZ1xEb21haW5FdmVudDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFnZ3JlZ2F0b3ItPnB1Ymxpc2goJGN1cnJlbmN5U2V0RXZlbnQpOwo=</text>
+        <text encoding="base64">CnVzZSBQcm9vcGhcQ29tbW9uXE1lc3NhZ2luZ1xEb21haW5FdmVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnVzZSBXYWxsZXRcSW50ZXJmYWNlc1xFdmVudDsK</text>
+        <text encoding="base64">CnVzZSBQcm9vcGhcQ29tbW9uXE1lc3NhZ2luZ1xEb21haW5FdmVudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFdhbGxldFxJbXBsZW1lbnRhdGlvbnNcV2FsbGV0U3RhdGU7Cg==</text>
+        <text encoding="base64">CnVzZSBQcm9vcGhcQ29tbW9uXE1lc3NhZ2luZ1xEb21haW5FdmVudDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1001,19 +1065,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIE1vbmV5XEN1cnJlbmN5Owo=</text>
+        <text encoding="base64">CnVzZSBQcm9vcGhcQ29tbW9uXE1lc3NhZ2luZ1xEb21haW5FdmVudDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFdhbGxldFxJbnRlcmZhY2VzXEJhbGFuY2VDaGFuZ2VkRXZlbnQ7Cg==</text>
+        <text encoding="base64">CnVzZSBQcm9vcGhcQ29tbW9uXE1lc3NhZ2luZ1xEb21haW5FdmVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>SetE</last-search>
+      <last-search>ex</last-search>
       <last-offset />
-      <last-pattern>SetE</last-pattern>
+      <last-pattern>ex</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1026,6 +1090,8 @@
         <entry>Sour</entry>
         <entry>amount</entry>
         <entry>SetE</entry>
+        <entry>exte</entry>
+        <entry>ex</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
