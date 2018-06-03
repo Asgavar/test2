@@ -15,9 +15,6 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1522701469510">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/projobog/zestaw04/ThreeSingletons/src/xyz/juraszek/threesingletons/OnePerFiveSecondsSingleton.java" timestamp="1522788090338">
         <mark key="'" line="24" column="19" />
         <mark key="[" line="20" column="8" />
@@ -229,6 +226,13 @@
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/Syringe/src/main/java/xyz/juraszek/syringe/SyringeContainer.java" timestamp="1528028105989">
+        <mark key="'" line="45" column="16" />
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="16" />
+        <mark key="." line="53" column="16" />
+        <mark key="^" line="53" column="74" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/src/Interfaces/BalanceChangedEvent.php" timestamp="1524173433647">
         <mark key="[" line="5" column="0" />
@@ -728,9 +732,6 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524171870152">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ReversePolishNotation/src/Functors/BinaryDivision.php" timestamp="1523564579900">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="15" column="4" />
@@ -911,9 +912,6 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1523541259460">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/PlusExpression.java" timestamp="1522240528525">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -922,10 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="7" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleConsumer.java" />
-      <jump line="25" column="20" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleProducer.java" />
-      <jump line="20" column="3" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleConsumer.java" />
-      <jump line="43" column="1" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/ThreadSafeBuffer/src/xyz/juraszek/threadsafebuffer/ExampleConsumer.java" />
       <jump line="57" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
       <jump line="5" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
       <jump line="52" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista06/MultithreadedMergeSort/src/xyz/juraszek/multithreadedMergeSort/MergeSort.java" />
@@ -1022,19 +1016,23 @@
       <jump line="4" column="25" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/PenaltyFeeCalculated.php" />
       <jump line="4" column="19" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/PenaltyFeePaid.php" />
       <jump line="5" column="0" filename="$USER_HOME$/studia/semestr_2_lato_2017_18/php/ProcessManager/src/Events/ReturnTimeExceeded.php" />
+      <jump line="54" column="75" filename="$USER_HOME$/workspace/Syringe/src/main/java/xyz/juraszek/syringe/SyringeContainer.java" />
+      <jump line="30" column="2" filename="$USER_HOME$/workspace/Syringe/src/main/java/xyz/juraszek/syringe/SyringeContainer.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/Syringe/src/main/java/xyz/juraszek/syringe/SyringeContainer.java" />
+      <jump line="45" column="16" filename="$USER_HOME$/workspace/Syringe/src/main/java/xyz/juraszek/syringe/SyringeContainer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>array(new CreateNewBookFile(), &quot;handle&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>array(new CreateNewBookFile(), &quot;handle&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ex</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCB0aGlyZCA9IGNpczIucmVhZCgpOwo=</text>
+      <register name="0" type="4">
+        <text>singletonImplementationType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZWNobyAiR09XTk8iIC4gUEhQX0VPTDsK</text>
