@@ -231,7 +231,6 @@
         <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/Syringe/src/main/java/xyz/juraszek/syringe/SyringeContainer.java" timestamp="1528033183427">
-        <mark key="'" line="28" column="4" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -582,10 +581,6 @@
       </file>
       <file name="$USER_HOME$/workspace/Syringe/src/test/java/xyz/juraszek/syringe/TestSyringeContainer.java" timestamp="1528031989436">
         <mark key="'" line="0" column="28" />
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="11" column="5" />
-        <mark key="^" line="11" column="5" />
-        <mark key="." line="11" column="64" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/php/Wallet/composer.json" timestamp="1524164256463">
         <mark key="[" line="7" column="28" />
@@ -934,6 +929,9 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1528381351107">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/studia/semestr_2_lato_2017_18/progob/lista05/ArithmeticExpressions/src/xyz/juraszek/arithmeticexpressions/PlusExpression.java" timestamp="1522240528525">
         <mark key="[" line="4" column="13" />
